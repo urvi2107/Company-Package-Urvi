@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: company
+Version: 0.0.0b1.dev0+g1353a0458.d20251103
+Summary: A Python package for modeling companies across various sectors.
+Author-email: Urvi <nath.urvi@gmail.com>, Boris <boris.bolliet@gmail.com>
+Project-URL: Documentation, https://your-readthedocs-url-here
+Project-URL: Source, https://github.com/un2107/companies_package
+Project-URL: Issues, https://github.com/un2017/companies_package/issues
+Keywords: companies,finance,healthcare,technology
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Information Technology
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Software Development :: Libraries
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: yfinance
