@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: company
-Version: 0.0.0b1.dev0+g1353a0458.d20251103
+Version: 0.0.0b1.dev1+gb94046fa0.d20251103
 Summary: A Python package for modeling companies across various sectors.
 Author-email: Urvi <nath.urvi@gmail.com>, Boris <boris.bolliet@gmail.com>
 Project-URL: Documentation, https://your-readthedocs-url-here
